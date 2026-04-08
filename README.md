@@ -4,6 +4,8 @@ This project is a smart vehicle safety system designed to prevent drunk driving 
 
 This project is a smart vehicle safety system designed to prevent drunk driving and improve vehicle security. It combines alcohol detection, GPS tracking, and engine locking features into one integrated embedded system.
 
+Click  the following link for visiting  https://www.theelectronicscreator.com/2026/04/gps-tracker-alcohol-detector-with.html
+
 ## Features
 - Detects alcohol level using alcohol sensor
 - Automatically locks/disables engine when alcohol is detected above threshold
